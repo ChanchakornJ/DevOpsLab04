@@ -19,7 +19,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
-  - type: input
+  - type: dropdown
     id: request
     attributes:
       label: Type of request?
@@ -29,7 +29,7 @@ body:
         - New feature
         - Feature bug
         - Feature request
-        
+
   - type: dropdown
     id: browsers
     attributes:
