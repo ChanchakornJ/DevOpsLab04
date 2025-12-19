@@ -1,4 +1,4 @@
-------
+
 name: Bug Report
 description: File a bug report
 title: "[Bug]: "
@@ -66,4 +66,3 @@ attributes:
 label: I agree to follow this project's Code of Conduct
     required: true
 
-------
