@@ -24,7 +24,11 @@ body:
     attributes:
       label: Type of request?
       description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      multiple: false
+      options:
+        - New feature
+        - Feature bug
+        - Feature request
     validations:
       required: false
   - type: dropdown
