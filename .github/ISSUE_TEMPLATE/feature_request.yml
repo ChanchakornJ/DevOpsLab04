@@ -1,6 +1,6 @@
 name: Feature report
 description: File a bug report
-title: "[Bug]: "
+title: "Feature: "
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
 assignees:
@@ -46,7 +46,7 @@ body:
       label: What are the details of your suggestion?
       description: Explain what do you want
       placeholder: Feature details!
-      value: "A bug happened!"
+      value: "Feature details!"
     validations:
       required: true
   # - type: dropdown
