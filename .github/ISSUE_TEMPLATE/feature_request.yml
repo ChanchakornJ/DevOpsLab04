@@ -29,8 +29,7 @@ body:
         - New feature
         - Feature bug
         - Feature request
-    validations:
-      required: false
+        
   - type: dropdown
     id: browsers
     attributes:
